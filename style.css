@@ -1,0 +1,22 @@
+footer {
+  background-color: pink;
+  color: white;
+  text-align: center;
+}
+
+header {
+  background-color: pink;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p1 {
+  text-align: center;
+}
+
+body{
+  background-image: url('https://media.istockphoto.com/id/1459207854/vector/a-multiracial-group-of-friends-gather-for-a-holiday-dinner-party.jpg?s=612x612&w=0&k=20&c=ojmOkNIFzDzBCciJQOKwwzAzC5YqyXt8PdH_nqtWU2o=');
